@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "58a2c4f3-8edc-4663-82e9-100d74bef51c",
+    "appKeys": {},
+    "longName": "acccheck",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "acccheck",
+    "companyName": "karthikkamarapu32@gmail.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
